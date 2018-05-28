@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <sagit>
-            <Filename>RR-O-v6.0.0-20180528_update-sagit-Official_update.zip</Filename>
+            <Filename>RR-O-v6.0.0-20180529-sagit-Official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Resurrection Remix"
@@ -10,7 +10,7 @@
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://raw.githubusercontent.com/LMMFHHO/changelog/master/RR-O-v6.0.0-20180528-sagit-Official-Changelog.txt</ChangelogUrl>
+                description="View Changelog">https://raw.githubusercontent.com/LMMFHHO/changelog/master/RR-O-v6.0.0-20180529-sagit-Official-Changelog.txt</ChangelogUrl>
 	    <SlimGappsUrl
             	id="gapps"
             	title="Gapps"
