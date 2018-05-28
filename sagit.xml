@@ -10,7 +10,7 @@
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://github.com/LMMFHHO/changelog/blob/master/RR-O-v6.0.0-20180528-sagit-Official-Changelog.txt</ChangelogUrl>
+                description="View Changelog">https://raw.githubusercontent.com/LMMFHHO/changelog/master/RR-O-v6.0.0-20180528-sagit-Official-Changelog.txt</ChangelogUrl>
 	    <SlimGappsUrl
             	id="gapps"
             	title="Gapps"
