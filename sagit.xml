@@ -19,6 +19,10 @@
 		id="SagitFirmware"
 		title="Firmware"
 		description="Download recommended Firmware">https://drive.google.com/open?id=1ZCSz5YfRE3yrcJ7UDA1mdUadmmBs5_HD</SagitFirmwareUrl>
+	    <MagiskUrl
+		id="magisk"
+		title="Magisk"
+		description="Get the latest Official Magisk">http://tiny.cc/latestmagisk</MagiskUrl>
 	    <XdaUrl
 		id="xda"
 		title="Forum"
