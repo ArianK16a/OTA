@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <sagit>
+            <Filename>RR-O-v6.0.0-20180528-sagit-Official.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Resurrection Remix"
+                description="Download latest builds">https://sourceforge.net/projects/resurrectionremix-oreo/files/sagit/</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://raw.githubusercontent.com/LMMFHHO/changelog/</ChangelogUrl>
+	    <SlimGappsUrl
+            	id="gapps"
+            	title="Gapps"
+            	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
+	    <SagitFirmwareUrl
+		id="SagitFirmware"
+		title="Firmware"
+		description="Download recommended Firmware">https://drive.google.com/open?id=1ZCSz5YfRE3yrcJ7UDA1mdUadmmBs5_HD</SagitFirmwareUrl>
+	    <XdaUrl
+		id="xda"
+		title="Forum"
+		description="Visit the Official XDA-Thread for Mi 6">https://forum.xda-developers.com/mi-6/development/rom-resurrection-remix-os-6-0-0-t3796150</XdaUrl>
+	 </sagit>
+    </Stable>
+</SlimOTA>
