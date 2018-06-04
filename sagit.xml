@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <sagit>
-            <Filename>RR-O-v6.0.0-20180604-sagit-Weekly.zip/Filename>
+            <Filename>RR-O-v6.0.0-20180604-sagit-Weekly.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Download"
-                description="Download latest builds">https://sourceforge.net/projects/resurrectionremix-oreo/files/sagit/</RomUrl>
+                description="Download latest build">https://netcologne.dl.sourceforge.net/project/resurrectionremix-oreo/sagit/RR-O-v6.0.0-20180604-sagit-Weekly.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
