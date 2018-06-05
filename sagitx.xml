@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Experimental>
+       <sagit>
+            <Filename>RR-O-v6.0.0-20180604-sagit-Weekly.zip</Filename>
+      <RomUrl
+        id="rom"
+        title="Download"
+        description="Download latest Experimental build">https://netcologne.dl.sourceforge.net/project/resurrectionremix-oreo/sagit/RR-O-v6.0.0-20180605-sagit-Experimental.zip</RomUrl>
+	    <SagitFirmwareUrl
+		    id="SagitFirmware"
+		    title="Firmware"
+		    description="Download recommended Firmware">https://drive.google.com/file/d/1HCO-G76RX3WTjyE7CfUPWpyVA3k0wL5u</SagitFirmwareUrl>
+	    <MagiskUrl
+		    id="magisk"
+		    title="Magisk"
+		    description="Get the latest Official Magisk">http://tiny.cc/latestmagisk</MagiskUrl>
+	    <XdaUrl
+		    id="xda"
+		    title="Forum"
+		    description="Visit the Official XDA-Thread for Mi 6">https://forum.xda-developers.com/mi-6/development/rom-resurrection-remix-os-6-0-0-t3796150</XdaUrl>
+	   </sagit>
+   </Experimental>
+</SlimOTA>
