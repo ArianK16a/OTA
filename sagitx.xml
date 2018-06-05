@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
- <Experimental>
+ <Stable>
   <sagit>
    <Filename>RR-O-v6.0.0-20180605-sagit-Experimental.zip</Filename>
    <RomUrl
@@ -20,5 +20,5 @@
 	title="Forum"
 	description="Visit the Official XDA-Thread for Mi 6">https://forum.xda-developers.com/mi-6/development/rom-resurrection-remix-os-6-0-0-t3796150</XdaUrl>
   </sagit>
- </Experimental>
+ </Stable>
 </SlimOTA>
