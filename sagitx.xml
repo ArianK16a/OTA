@@ -3,7 +3,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
  <Experimental>
   <sagit>
-   <Filename>RR-O-v6.0.0-20180606-sagit-Experimental.zip</Filename>
+   <Filename>RR-O-v6.0.0-20180607-sagit-Nightly.zip</Filename>
    <RomUrl
 	id="rom"
         title="Download"
