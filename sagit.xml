@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
-    <Stable>
-        <sagit>
-            <Filename>RR-O-v6.0.0-20180604-sagit-Weekly.zip</Filename>
-            <RomUrl
-                id="rom"
-                title="Download"
-                description="Download latest build">https://netcologne.dl.sourceforge.net/project/resurrectionremix-oreo/sagit/RR-O-v6.0.0-20180604-sagit-Weekly.zip</RomUrl>
-            <ChangelogUrl
-                id="changelog"
-                title="Changelog"
-                description="View Changelog">https://raw.githubusercontent.com/LMMFHHO/changelog/master/RR-O-v6.0.0-20180604-sagit-Weekly-Changelog.txt</ChangelogUrl>
+ <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+  <Stable>
+   <sagit>
+    <Filename>RR-O-v6.0.0-20180604-sagit-Weekly.zip</Filename>
+    <RomUrl
+	id="rom"
+	title="Download"
+	description="Download latest build">https://netcologne.dl.sourceforge.net/project/resurrectionremix-oreo/sagit/RR-O-v6.0.0-20180604-sagit-Weekly.zip</RomUrl>
+    <ChangelogUrl
+	id="changelog"
+	title="Changelog"
+	description="View Changelog">https://raw.githubusercontent.com/LMMFHHO/changelog/master/RR-O-v6.0.0-20180604-sagit-Weekly-Changelog.txt</ChangelogUrl>
     	    <TelegramUrl
-		id="telegram"
-		title="Telegram Group"
-		description="Join the RR MI6 Telegram Group!">https://t.me/rrmi6</TelegramUrl>
-	    <SagitFirmwareUrl
-		id="SagitFirmware"
-		title="Firmware"
-		description="Download recommended Firmware">https://drive.google.com/open?id=1ZCSz5YfRE3yrcJ7UDA1mdUadmmBs5_HD</SagitFirmwareUrl>
-	    <MagiskUrl
-		id="magisk"
-		title="Magisk"
-		description="Get the latest Official Magisk">http://tiny.cc/latestmagisk</MagiskUrl>
-	    <XdaUrl
-		id="xda"
-		title="Forum"
-		description="Visit the Official XDA-Thread for Mi 6">https://forum.xda-developers.com/mi-6/development/rom-resurrection-remix-os-6-0-0-t3796150</XdaUrl>
-	 </sagit>
-    </Stable>
+	id="telegram"
+	title="Telegram Group"
+	description="Join the RR MI6 Telegram Group!">https://t.me/rrmi6</TelegramUrl>
+    <SagitFirmwareUrl
+	id="SagitFirmware"
+	title="Firmware"
+	description="Download recommended Firmware">https://drive.google.com/open?id=1ZCSz5YfRE3yrcJ7UDA1mdUadmmBs5_HD</SagitFirmwareUrl>
+    <MagiskUrl
+	id="magisk"
+	title="Magisk"
+	description="Get the latest Official Magisk">http://tiny.cc/latestmagisk</MagiskUrl>
+    <XdaUrl
+	id="xda"
+	title="Forum"
+	description="Visit the Official XDA-Thread for Mi 6">https://forum.xda-developers.com/mi-6/development/rom-resurrection-remix-os-6-0-0-t3796150</XdaUrl>
+  </sagit>
+ </Stable>
  <Experimental>
   <sagit>
    <Filename>RR-O-v6.0.0-20180607-sagit-Experimental.zip</Filename>
