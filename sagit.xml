@@ -18,7 +18,7 @@
     <SagitFirmwareUrl
 	id="SagitFirmware"
 	title="Firmware"
-	description="Download recommended Firmware">https://drive.google.com/open?id=1ZCSz5YfRE3yrcJ7UDA1mdUadmmBs5_HD</SagitFirmwareUrl>
+	description="Download recommended Firmware">https://goo.gl/T9nC6Z</SagitFirmwareUrl>
     <MagiskUrl
 	id="magisk"
 	title="Magisk"
@@ -35,11 +35,11 @@
    <RomUrl
 	id="rom"
         title="Download"
-        description="Download latest Experimental build">https://goo.gl/tdzCzv</RomUrl>
+        description="Download latest Experimental builds">https://goo.gl/zoVCj5</RomUrl>
    <SagitFirmwareUrl
 	id="SagitFirmware"
 	title="Firmware"
-	description="Download recommended Firmware">https://goo.gl/7gMkeR</SagitFirmwareUrl>
+	description="Download recommended Firmware">https://goo.gl/T9nC6Z</SagitFirmwareUrl>
    <XdaUrl
 	id="xda"
 	title="Forum"
