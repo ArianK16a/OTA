@@ -29,4 +29,25 @@
 		description="Visit the Official XDA-Thread for Mi 6">https://forum.xda-developers.com/mi-6/development/rom-resurrection-remix-os-6-0-0-t3796150</XdaUrl>
 	 </sagit>
     </Stable>
+ <Experimental>
+  <sagit>
+   <Filename>RR-O-v6.0.0-20180607-sagit-Experimental.zip</Filename>
+   <RomUrl
+	id="rom"
+        title="Download"
+        description="Download latest Experimental build">https://goo.gl/tdzCzv</RomUrl>
+   <SagitFirmwareUrl
+	id="SagitFirmware"
+	title="Firmware"
+	description="Download recommended Firmware">https://goo.gl/7gMkeR</SagitFirmwareUrl>
+   <XdaUrl
+	id="xda"
+	title="Forum"
+	description="Visit the Official XDA-Thread for Mi 6">https://goo.gl/5cLjgy</XdaUrl>
+    <TelegramUrl
+	id="telegram"
+	title="Telegram"
+	description="Join the RR MI6 Telegram Group">https://t.me/rrmi6</TelegramUrl>
+   </sagit>
+ </Experimental>
 </SlimOTA>
