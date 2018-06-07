@@ -3,7 +3,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
  <Experimental>
   <sagit>
-   <Filename>RR-O-v6.0.0-20180607-sagit-Nightly.zip</Filename>
+   <Filename>RR-O-v6.0.0-20180607-sagit-Experimental.zip</Filename>
    <RomUrl
 	id="rom"
         title="Download"
@@ -11,7 +11,7 @@
    <SagitFirmwareUrl
 	id="SagitFirmware"
 	title="Firmware"
-	description="Download recommended Firmware">https://goo.gl/Kma3kC</SagitFirmwareUrl>
+	description="Download recommended Firmware">https://goo.gl/7gMkeR</SagitFirmwareUrl>
    <XdaUrl
 	id="xda"
 	title="Forum"
