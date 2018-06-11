@@ -6,12 +6,12 @@
     <RomUrl
 	id="rom"
 	title="Download"
-	description="Download latest build">https://netcologne.dl.sourceforge.net/project/resurrectionremix-oreo/sagit/RR-O-v6.0.0-20180604-sagit-Weekly.zip</RomUrl>
+	description="Download latest build">https://netcologne.dl.sourceforge.net/project/resurrectionremix-oreo/sagit/RR-O-v6.1.0-20180611-sagit-Weekly.zip</RomUrl>
     <ChangelogUrl
 	id="changelog"
 	title="Changelog"
-	description="View Changelog">https://raw.githubusercontent.com/LMMFHHO/changelog/master/RR-O-v6.0.0-20180604-sagit-Weekly-Changelog.txt</ChangelogUrl>
-    	    <TelegramUrl
+	description="View Changelog">https://raw.githubusercontent.com/LMMFHHO/changelog/master/RR-O-v6.1.0-20180611-sagit-Weekly-Changelog.txt</ChangelogUrl>
+    <TelegramUrl
 	id="telegram"
 	title="Telegram Group"
 	description="Join the RR MI6 Telegram Group!">https://t.me/rrmi6</TelegramUrl>
