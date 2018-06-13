@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+ <Experimental>
+  <sagit>
+   <Filename>toxyc_rom</Filename>
+   <RomUrl
+	      id="rom"
+        title="Download"
+        description="Download latest Experimental builds">https://goo.gl/zoVCj5</RomUrl>
+   <SagitFirmwareUrl
+	      id="SagitFirmware"
+	      title="Firmware"
+      	description="Download recommended Firmware">https://goo.gl/T9nC6Z</SagitFirmwareUrl>
+    <TelegramUrl
+      	id="telegram"
+      	title="Telegram"
+      	description="Contact me">https://t.me/ArianK16a</TelegramUrl>
+   </sagit>
+ </Experimental>
+</SlimOTA>
