@@ -19,5 +19,6 @@
                 id="donation"
                 title=""
 		description="">https://www.paypal.me/vhermann</PaypalUrl>
-    </Stable>
+	    </sagit>
+	</Stable>
 </SlimOTA>
