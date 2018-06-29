@@ -1,4 +1,4 @@
-ota_url=https://raw.githubusercontent.com/LMMFHHO/OTA/master/sagit.xml
+ota_url=https://raw.githubusercontent.com/LMMFHHO/OTA/HavocOS/sagit.xml
 release_type=Stable
 device_name=ro.rr.device
 version_source=ro.rr.version
