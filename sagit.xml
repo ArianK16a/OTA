@@ -4,11 +4,11 @@
   <sagit>
    <Filename>Havoc-OS-20180706-sagit-EAS3.zip</Filename>
    <RomUrl
-	id="rom"
+	id="officialrom"
         title="Official"
         description="Download latest Official builds">https://sourceforge.net/projects/havoc-os/files/sagit</RomUrl>
    <RomUrl
-	id="rom"
+	id="testrom"
         title="Test"
         description="Download latest test builds">https://drive.google.com/open?id=1u7fybEgmcDWIWocpoVk_B7mFsLmu100J</RomUrl>
 <SagitFirmwareUrl
