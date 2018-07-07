@@ -5,16 +5,16 @@
    <Filename>Havoc-OS-20180706-sagit-EAS3.zip</Filename>
    <RomUrl
 	id="officialrom"
-        title="Official"
+        title="Official ROM"
         description="Download latest Official builds">https://sourceforge.net/projects/havoc-os/files/sagit</RomUrl>
-   <RomUrl
+   <tRomUrl
 	id="testrom"
-        title="Test"
-        description="Download latest test builds">https://drive.google.com/open?id=1u7fybEgmcDWIWocpoVk_B7mFsLmu100J</RomUrl>
-<SagitFirmwareUrl
+        title="Test ROM"
+        description="Download latest test builds">https://drive.google.com/open?id=1u7fybEgmcDWIWocpoVk_B7mFsLmu100J</tRomUrl>
+   <SagitFirmwareUrl
 	id="SagitFirmware"
 	title="Firmware"
-	description="Download recommended Firmware">https://goo.gl/T9nC6Z</SagitFirmwareUrl>
+	description="Download recommended Firmware">https://androidfilehost.com/?fid=746010030569970035</SagitFirmwareUrl>
    <XdaUrl
 	id="xda"
 	title="Forum"
