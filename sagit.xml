@@ -2,12 +2,16 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
  <Stable>
   <sagit>
-   <Filename>Havoc-OS-20180624-sagit-Official.zip</Filename>
+   <Filename>Havoc-OS-20180706-sagit-EAS3.zip</Filename>
    <RomUrl
 	id="rom"
-        title="Download"
+        title="Official"
         description="Download latest Official builds">https://sourceforge.net/projects/havoc-os/files/sagit</RomUrl>
-   <SagitFirmwareUrl
+   <RomUrl
+	id="rom"
+        title="Test"
+        description="Download latest test builds">https://drive.google.com/open?id=1u7fybEgmcDWIWocpoVk_B7mFsLmu100J</RomUrl>
+<SagitFirmwareUrl
 	id="SagitFirmware"
 	title="Firmware"
 	description="Download recommended Firmware">https://goo.gl/T9nC6Z</SagitFirmwareUrl>
