@@ -2,15 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
  <Stable>
   <sagit>
-   <Filename>Havoc-OS-20180706-sagit-EAS3.zip</Filename>
+   <Filename>Havoc-OS-20180709-sagit-Official.zip</Filename>
    <RomUrl
 	id="officialrom"
-        title="Official ROM"
-        description="Download latest Official builds">https://sourceforge.net/projects/havoc-os/files/sagit</RomUrl>
-   <tRomUrl
-	id="testrom"
-        title="Test ROM"
-        description="Download latest test builds">https://drive.google.com/open?id=1u7fybEgmcDWIWocpoVk_B7mFsLmu100J</tRomUrl>
+        title="Havoc-OS"
+        description="Download latest Official build">https://netcologne.dl.sourceforge.net/project/havoc-os/sagit/Havoc-OS-20180709-sagit-Official.zip</RomUrl>
    <SagitFirmwareUrl
 	id="SagitFirmware"
 	title="Firmware"
@@ -19,10 +15,14 @@
 	id="xda"
 	title="Forum"
 	description="Visit the Official HavocOS XDA-Thread for Mi 6">https://forum.xda-developers.com/mi-6/development/rom-havoc-os-t3807517</XdaUrl>
-    <TelegramUrl
+   <TelegramUrl
 	id="telegram"
 	title="Telegram"
 	description="Join the HavocOS MI6 Telegram Group">https://t.me/havocmi6</TelegramUrl>
+    <GDrive
+	id="drive"
+        title="GDrive"
+        description="Check my Havoc-OS Drive">https://drive.google.com/open?id=1u7fybEgmcDWIWocpoVk_B7mFsLmu100J</tRomUrl>
   </sagit>
  </Stable>
 </SlimOTA>
