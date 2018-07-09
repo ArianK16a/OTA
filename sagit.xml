@@ -22,7 +22,7 @@
     <GDrive
 	id="drive"
         title="GDrive"
-        description="Check my Havoc-OS Drive">https://drive.google.com/open?id=1u7fybEgmcDWIWocpoVk_B7mFsLmu100J</tRomUrl>
+        description="Check my Havoc-OS Drive">https://drive.google.com/open?id=1u7fybEgmcDWIWocpoVk_B7mFsLmu100J</GDrive>
   </sagit>
  </Stable>
 </SlimOTA>
