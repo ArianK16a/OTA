@@ -2,15 +2,15 @@
  <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
   <Stable>
    <sagit>
-    <Filename>RR-O-v6.1.0-20180709-sagit-Official.zip</Filename>
+    <Filename>RR-O-v6.1.0-20180715-sagit-Official.zip</Filename>
     <RomUrl
 	id="rom"
 	title="Download"
-	description="Download latest build">https://netcologne.dl.sourceforge.net/project/resurrectionremix-oreo/sagit/RR-O-v6.1.0-20180709-sagit-Official.zip</RomUrl>
+	description="Download latest build">https://netcologne.dl.sourceforge.net/project/resurrectionremix-oreo/sagit/RR-O-v6.1.0-20180715-sagit-Official.zip</RomUrl>
     <ChangelogUrl
 	id="changelog"
 	title="Changelog"
-	description="View Changelog">https://raw.githubusercontent.com/LMMFHHO/changelog/master/RR-O-v6.1.0-20180709-sagit-Official-Changelog.txt</ChangelogUrl>
+	description="View Changelog">https://raw.githubusercontent.com/LMMFHHO/changelog/master/RR-O-v6.1.0-20180715-sagit-Official-Changelog.txt</ChangelogUrl>
     <SagitFirmwareUrl
 	id="SagitFirmware"
 	title="Firmware"
