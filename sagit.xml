@@ -6,7 +6,7 @@
     <RomUrl
 	id="rom"
 	title="Download"
-	description="Download latest build">https://netcologne.dl.sourceforge.net/project/resurrectionremix-oreo/sagit/RR-O-v6.1.0-20180715-sagit-Official.zip</RomUrl>
+	description="Download latest builds">https://sourceforge.net/projects/resurrectionremix-oreo/files/sagit/</RomUrl>
     <ChangelogUrl
 	id="changelog"
 	title="Changelog"
