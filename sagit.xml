@@ -19,10 +19,10 @@
 	id="telegram"
 	title="Telegram"
 	description="Join the HavocOS MI6 Telegram Group">https://t.me/havocmi6</TelegramUrl>
-    <GDrive
-	id="drive"
-        title="GDrive"
-        description="Check my Havoc-OS Drive">https://drive.google.com/open?id=1u7fybEgmcDWIWocpoVk_B7mFsLmu100J</GDrive>
+  <TestURL
+	id="test"
+	title="Nightlys"
+	description="Check latest Nightlys. AT YOUR OWN RISK">http://arian-download.ddns.net/HavocOS</TestUrl>
   </sagit>
  </Stable>
 </SlimOTA>
