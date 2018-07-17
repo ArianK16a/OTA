@@ -19,7 +19,7 @@
 	id="telegram"
 	title="Telegram"
 	description="Join the HavocOS MI6 Telegram Group">https://t.me/havocmi6</TelegramUrl>
-  <TestURL
+  <TestUrl
 	id="test"
 	title="Nightlys"
 	description="Check latest Nightlys. AT YOUR OWN RISK">http://arian-download.ddns.net/HavocOS</TestUrl>
