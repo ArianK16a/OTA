@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
  <Stable>
   <sagit>
-   <Filename>Havoc-OS-20180709-sagit-Official.zip</Filename>
+   <Filename>Havoc-OS-20180717-sagit-Nightly.zip</Filename>
    <RomUrl
 	id="officialrom"
         title="Havoc-OS"
@@ -19,10 +19,10 @@
 	id="telegram"
 	title="Telegram"
 	description="Join the HavocOS MI6 Telegram Group">https://t.me/havocmi6</TelegramUrl>
-  <TestUrl
+  <NightlyUrl
 	id="test"
-	title="Nightlys"
-	description="Check latest Nightlys. AT YOUR OWN RISK">http://arian-download.ddns.net/HavocOS</TestUrl>
+	title="Nightly"
+	description="Check Nightlies AT YOUR OWN RISK">http://arian-download.ddns.net/HavocOS</NightlyUrl>
   </sagit>
  </Stable>
 </SlimOTA>
