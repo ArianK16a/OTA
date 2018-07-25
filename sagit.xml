@@ -24,5 +24,20 @@
 	title="Nightly"
 	description="Check Nightlies AT YOUR OWN RISK">http://arian-download.ddns.net/HavocOS</NightlyUrl>
   </sagit>
+  <chiron>
+   <Filename>Havoc-OS-20180725-chiron-Nightly.zip</Filename>
+   <XdaUrl
+	id="xda"
+	title="XDA"
+	description="Fagit XDA-Thread">https://forum.xda-developers.com/mi-6/development/rom-havoc-os-t3807517</XdaUrl>
+   <TelegramUrl
+	id="telegram"
+	title="Telegram"
+	description="Fagit Telegram-Group">https://t.me/havocmi6</TelegramUrl>
+  <NightlyUrl
+	id="test"
+	title="Nightly"
+	description="Check Nightlies AT YOUR OWN RISK">http://arian-download.ddns.net/chiron/</NightlyUrl>
+  </chiron> 
  </Stable>
 </SlimOTA>
