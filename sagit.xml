@@ -2,7 +2,7 @@
  <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
   <Stable>
    <sagit>
-    <Filename>RR-O-v6.1.0-20180817-sagit-Official.zip</Filename>
+    <Filename>RR-O-v6.1.0-20180910-sagit-Final.zip</Filename>
     <RomUrl
 	id="rom"
 	title="Download"
