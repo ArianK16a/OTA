@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+  <Stable>
+   <sagit>
+    <Filename>RR-O-v6.2.0-20180910-sagit-Final.zip</Filename>
+    <RomUrl
+	    id="rom"
+	    title="Download"
+	    description="Download latest builds">https://sourceforge.net/projects/resurrectionremix-oreo/files/sagit/</RomUrl>
+    <SagitFirmwareUrl
+    	id="SagitFirmware"
+    	title="Firmware"
+      description="Download recommended Firmware">https://androidfilehost.com/?fid=746010030569970035</SagitFirmwareUrl>
+    <TelegramUrl
+	    id="telegram"
+     	title="Telegram Group"
+    	description="Join the RR MI6 Telegram Group!">https://t.me/rrmi6</TelegramUrl>
+    <XdaUrl
+	    id="xda"
+    	title="Forum"
+    	description="Visit the Official XDA-Thread for Mi 6">https://forum.xda-developers.com/mi-6/development/rom-resurrection-remix-os-6-0-0-t3796150</XdaUrl>
+  </z3c>
+   <sagit>
+    <Filename>RR-O-v6.2.0-20180910-z3c-testing.zip</Filename>
+    <RomUrl
+    	id="rom"
+    	title="Download"
+    	description="Download latest builds">hhttps://mega.nz/#F!nbpSVCzb!3nNn27QaynVkjs1hX5IaxQ</RomUrl>
+    <TelegramUrl
+    	id="telegram"
+    	title="Telegram Group"
+    	description="Contact the (unofficial) maintainer">https://t.me/ariank16a</TelegramUrl>
+    <XdaUrl
+	    id="xda"
+	    title="Forum"
+	    description="Visit the XDA-Thread for Z3C">https://forum.xda-developers.com/mi-6/development/rom-resurrection-remix-os-6-0-0-t3796150</XdaUrl>
+  </z3c>
+</Stable>
+</SlimOTA>
