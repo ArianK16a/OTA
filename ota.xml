@@ -19,8 +19,8 @@
 	    id="xda"
     	title="Forum"
     	description="Visit the Official XDA-Thread for Mi 6">https://forum.xda-developers.com/mi-6/development/rom-resurrection-remix-os-6-0-0-t3796150</XdaUrl>
-  </z3c>
-   <sagit>
+  </sagit>
+  <z3c>
     <Filename>RR-O-v6.2.0-20180910-z3c-testing.zip</Filename>
     <RomUrl
     	id="rom"
