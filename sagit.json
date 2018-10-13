@@ -1,0 +1,41 @@
+{
+"donate_url":"https://paypal.me/pools/campaign/110161534571383112",
+"website_url":"https://aospextended.com",
+"news_url":"https://t.me/aexmi6updates",
+"developer_url": "https://t.me/ArianK16a",
+"developer": "ArianK16a",
+"forum_url": "https://forum.xda-developers.com/mi-6/development/9-0-aospextended-rom-v6-0-alpha-t3842076",
+"changelog": "*bug fixes & improvements ",
+"addons":
+[
+{
+"title":"VantomKernel","summary":"Maximum of Features","url":"http://159.65.193.144/vantom"
+},
+{
+"title":"TWRP","summary":"Latest TWRP by Arian","url":"https://github.com/xiaomi-msm8998/device_xiaomi_sagit/releases/tag/3.2.3-4"
+},
+{
+"title":"Firmware","summary":"Recommended Firmware 8.4.19","url":"http://159.65.193.144/sagit/fw/fw_sagit_miui_MI6Global_8.4.19_49003fef39_8.0.zip"
+},
+{
+"title":"GApps","summary":"OpenGApps arm64 & android 9.0 ","url":"https://opengapps.org/"
+},
+{
+"title":"60 FPS","summary":"Magisk Module to enable 60fps-1080p and slowmo in the Google Camera App","url":"http://159.65.193.144/sagit/gcam/3060120fps_V1.1.zip"
+},
+{
+"title":"Miui Camera","summary":"Ported MiuiCamera from Mi A2","url":"http://159.65.193.144/sagit/MIUI-CAM/M1_A2_Camera_Android_P.zip"
+},
+{
+"title":"Magisk","summary":"Magisk BETA v17.2","url":"https://github.com/topjohnwu/Magisk/releases/download/v17.2/Magisk-v17.2.zip"
+},
+{
+"title":"Magisk Uninstaller","summary":"Flashable zip to uninstall Magisk","url":"https://github.com/topjohnwu/Magisk/releases/download/v17.2/Magisk-uninstaller-20180921.zip"
+}
+],
+"filename":"AospExtended-v6.0-sagit-20181027-2239-UNOFFICIAL.zip",
+"build_date":"20181027",
+"filesize":"627894423",
+"md5":"3123a4a856ba4d64da34c4d4206dfa26",
+"url":"https://sourceforge.net/projects/aex-mi6/files/AospExtended-v6.0-sagit-20181027-2239-UNOFFICIAL.zip/download"
+}
