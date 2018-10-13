@@ -1,0 +1,17 @@
+{"donate_url":"http://paypal.me/ariank16a","website_url":"https://aospextended.com",
+"news_url":"https://t.me/aexmi6updates",
+"addons":
+[
+{"title":"VantomKernel","summary":"Maximum of Features","url":"http://159.65.193.144/vantom"},
+{"title":"Firmware","summary":"Recommended Firmware 8.4.19","url":"http://159.65.193.144/sagit/fw/fw_sagit_miui_MI6Global_8.4.19_49003fef39_8.0.zip"},
+{"title":"GApps","summary":"OpenGApps arm64 & android 9.0 ","url":"https://opengapps.org/"},
+{"title":"60 FPS","summary":"Magisk Module to enable 60 fps 1080p and slowmotion in the Google Camera","url":"http://159.65.193.144/sagit/gcam/60fps_black-v2.2.zip"},
+{"title":"Magisk","summary":"Magisk BETA v17.2","url":"https://github.com/topjohnwu/Magisk/releases/download/v17.2/Magisk-v17.2.zip"},
+{"title":"Magisk","summary":"Magisk Uninstaller","url":"https://github.com/topjohnwu/Magisk/releases/download/v17.2/Magisk-uninstaller-20180921.zip"}
+],
+"error":true,
+"filename":"AospExtended-v6.0-sagit-20181013-1014-UNOFFICIAL.zip",
+"build_date":"20181013",
+"filesize":"653492321",
+"md5":"4d60a6877f54fd65c7efe80c95884f67",
+"url":"https://sourceforge.net/projects/aex-mi6/files/AospExtended-v6.0-sagit-20181013-1014-OFFICIAL.zip/download"}
