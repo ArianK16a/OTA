@@ -5,7 +5,7 @@
 "developer_url": "https://t.me/ArianK16a",
 "developer": "ArianK16a",
 "forum_url": "https://forum.xda-developers.com/mi-6/development/9-0-aospextended-rom-v6-0-alpha-t3842076",
-"changelog": "*bug fixes & improvements ",
+"changelog": "*OFFICIAL \n *bug fixes & improvements ",
 "addons":
 [
 {
@@ -33,9 +33,9 @@
 "title":"Magisk Uninstaller","summary":"Flashable zip to uninstall Magisk","url":"https://github.com/topjohnwu/Magisk/releases/download/v17.2/Magisk-uninstaller-20180921.zip"
 }
 ],
-"filename":"AospExtended-v6.0-sagit-20181027-2239-UNOFFICIAL.zip",
-"build_date":"20181027",
-"filesize":"627894423",
+"filename":"AospExtended-v6.0-sagit-20181028-2239-OFFICIAL.zip",
+"build_date":"20181028",
+"filesize":"627855681",
 "md5":"3123a4a856ba4d64da34c4d4206dfa26",
-"url":"https://sourceforge.net/projects/aex-mi6/files/AospExtended-v6.0-sagit-20181027-2239-UNOFFICIAL.zip/download"
+"url":"https://sourceforge.net/projects/aospextended-rom/files/sagit/pie/AospExtended-v6.0-sagit-20181028-2050-OFFICIAL.zip/download"
 }
