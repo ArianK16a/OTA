@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1574700814",
-      "filename": "lineage-17.0-20191125-UNOFFICIAL-sagit.zip",
-      "id": "174007c43e84fad8250814cdc4a5a913",
+      "datetime": "1574784225",
+      "filename": "lineage-17.0-20191126-UNOFFICIAL-sagit.zip",
+      "id": "917177fc5145328e3816cf1e7a1c526e",
       "romtype": "UNOFFICIAL",
-      "size": "754209344",
-      "url": "https://osdn.net/frs/redir.php?m=auto&f=/storage/g/e/ep/ephedraceae/sagit/lineage-17.0/lineage-17.0-20191125-UNOFFICIAL-sagit.zip",
+      "size": "754156775",
+      "url": "https://osdn.net/frs/redir.php?m=auto&f=/storage/g/e/ep/ephedraceae/sagit/lineage-17.0/lineage-17.0-20191126-UNOFFICIAL-sagit.zip",
       "version": "17.0"
     }
   ]
