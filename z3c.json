@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1588454535",
-      "filename": "lineage-17.1-20200502-UNOFFICIAL-z3c.zip",
-      "id": "f341689758c189f8bac4589a31234f12",
+      "datetime": "1597060450",
+      "filename": "lineage-17.1-20200810-UNOFFICIAL-z3c.zip",
+      "id": "49ac6beeae75c06c5b71106c7cea80d4",
       "romtype": "UNOFFICIAL",
-      "size": "489706515",
-      "url": "https://sourceforge.net/projects/ephedraceae/files/z3c/lineage-17.1/lineage-17.1-20200502-UNOFFICIAL-z3c.zip/download",
+      "size": "496342879",
+      "url": "https://sourceforge.net/projects/ephedraceae/files/z3c/lineage-17.1/lineage-17.1-20200810-UNOFFICIAL-z3c.zip/download",
       "version": "17.1"
     }
   ]
